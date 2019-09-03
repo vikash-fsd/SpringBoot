@@ -1,0 +1,12 @@
+com/tutorial/repository/BookRepository.class
+com/tutorial/repository/SubjectRepository.class
+com/tutorial/config/SubjectEditor.class
+com/tutorial/controller/BookController.class
+com/tutorial/service/SubjectServiceImpl.class
+com/tutorial/config/App.class
+com/tutorial/service/SubjectService.class
+com/tutorial/service/BookServiceImpl.class
+com/tutorial/service/BookService.class
+com/tutorial/model/Book.class
+com/tutorial/controller/SubjectController.class
+com/tutorial/model/Subject.class
